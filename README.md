@@ -1,4 +1,4 @@
-# CSE462 - Algorithm Sessional
+# CSE462 - Algorithm Engineering Sessional
 
 ## Book Reading Presentation
 
