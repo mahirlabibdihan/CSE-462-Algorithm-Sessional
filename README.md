@@ -8,6 +8,7 @@
 ## Project
 
 - **Topic:** Neural Combinatorial Optimization
+- **Problem:** Capacitated Vehicle Routing Problem ([CVRP](https://en.wikipedia.org/wiki/Vehicle_routing_problem))
 - **Report:** [pdf](report.pdf) | [latex](https://www.overleaf.com/read/tgztgfnqffqw#efe338)
 - **Algorithms:**
   - LEHD: [paper](https://arxiv.org/abs/2310.07985) | [code](https://github.com/mahirlabibdihan/NCO_code/tree/main/single_objective/LEHD/CVRP)
